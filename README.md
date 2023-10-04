@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m a Tech Savvy.<br><br>🌱 I’m currently exploring Web Development  <br><br>👯 I’m looking forward for collaborating on many Open Source Contributions <br><br>🤝 I’m looking for help with Expert -Data Analyst and ML enthusiast<br><br>💬 Ask me about anything here<br><br>📫 How to reach me amanydv770@gmail.com<br><br><br>
 
-<p align="left"> <img src="" alt="amanydv777" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="amanydv777" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/simran_yadav.10/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simran-yadav-10s/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@simran2131056) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/simranyadav464) 
